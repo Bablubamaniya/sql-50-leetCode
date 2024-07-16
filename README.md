@@ -6,3 +6,4 @@ https://leetcode.com/problems/find-customer-referee/solutions/5467117/question-n
 https://leetcode.com/problems/big-countries/solutions/5467150/question-no-3
 ![image](https://github.com/user-attachments/assets/fcacdbd5-6c24-4bb9-9372-f8bd5b42bd8e)
 https://leetcode.com/problems/article-views-i/solutions/5486375/question-no-4
+![image](https://github.com/user-attachments/assets/d5d29c5c-9de6-4b17-b606-82cdaa33e111)
