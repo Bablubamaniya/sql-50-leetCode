@@ -9,4 +9,4 @@ https://leetcode.com/problems/article-views-i/solutions/5486375/question-no-4
 ![image](https://github.com/user-attachments/assets/d5d29c5c-9de6-4b17-b606-82cdaa33e111)
 https://leetcode.com/problems/invalid-tweets/solutions/5497079/quetion-no-5
 ![image](https://github.com/user-attachments/assets/d7b01ab6-dfc0-4d99-8ccc-d239a8ed917c)
-
+https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/submissions/1325488762
