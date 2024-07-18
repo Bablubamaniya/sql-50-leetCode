@@ -8,4 +8,4 @@ https://leetcode.com/problems/big-countries/solutions/5467150/question-no-3
 https://leetcode.com/problems/article-views-i/solutions/5486375/question-no-4
 ![image](https://github.com/user-attachments/assets/d5d29c5c-9de6-4b17-b606-82cdaa33e111)
 https://leetcode.com/problems/invalid-tweets/solutions/5497079/quetion-no-5
-![image](https://github.com/user-attachments/assets/3b2e51cd-90e6-4fe6-8bf0-92c6e8c44784)
+
