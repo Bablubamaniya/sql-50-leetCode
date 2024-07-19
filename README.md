@@ -11,3 +11,4 @@ https://leetcode.com/problems/invalid-tweets/solutions/5497079/quetion-no-5
 ![image](https://github.com/user-attachments/assets/d7b01ab6-dfc0-4d99-8ccc-d239a8ed917c)
 https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/submissions/1325488762
 ![image](https://github.com/user-attachments/assets/ce5a7d30-ac55-4b1c-b195-2a1832a5cfba)
+https://leetcode.com/problems/product-sales-analysis-i/solutions/5502227/quetion-no-7
