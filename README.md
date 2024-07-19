@@ -12,3 +12,6 @@ https://leetcode.com/problems/invalid-tweets/solutions/5497079/quetion-no-5
 https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/submissions/1325488762
 ![image](https://github.com/user-attachments/assets/ce5a7d30-ac55-4b1c-b195-2a1832a5cfba)
 https://leetcode.com/problems/product-sales-analysis-i/solutions/5502227/quetion-no-7
+![image](https://github.com/user-attachments/assets/10755e0b-0f9c-48f0-b5a2-1c23446e98c0)
+https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/solutions/5502584/question-no-8
+![image](https://github.com/user-attachments/assets/e56e825e-e95b-4e93-9faa-7afc970d5af1)
