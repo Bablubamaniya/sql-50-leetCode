@@ -15,3 +15,4 @@ https://leetcode.com/problems/product-sales-analysis-i/solutions/5502227/quetion
 ![image](https://github.com/user-attachments/assets/10755e0b-0f9c-48f0-b5a2-1c23446e98c0)
 https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/solutions/5502584/question-no-8
 ![image](https://github.com/user-attachments/assets/e56e825e-e95b-4e93-9faa-7afc970d5af1)
+https://leetcode.com/problems/rising-temperature/solutions/5592225/quetion-no-9
