@@ -18,3 +18,4 @@ https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transact
 https://leetcode.com/problems/rising-temperature/solutions/5592225/quetion-no-9
 ![image](https://github.com/user-attachments/assets/b6205393-2048-49b2-9499-02dcd5bdb947)
 https://leetcode.com/problems/average-time-of-process-per-machine/solutions/5600473/question-no-10
+![image](https://github.com/user-attachments/assets/e236753f-4d1e-4c13-a6f5-ab929f00abe4)
